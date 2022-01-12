@@ -1,3 +1,3 @@
 import os
-scraper = os.system("./Dockerfile")
+scraper = os.system("./agent")
 print(scraper)
